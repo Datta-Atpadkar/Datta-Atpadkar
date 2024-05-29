@@ -30,9 +30,10 @@ I'm a Data Scientist, working as Senior Systems Engineer at Infosys with over 2.
   <a href="https://www.example.com">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-    
   
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  <a href="mailto:atpadkardatta123@gmail.com">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
 </div>
 
 ###
@@ -42,10 +43,4 @@ I'm a Data Scientist, working as Senior Systems Engineer at Infosys with over 2.
 </div>
 
 ###
-- 
 
-## ⚡ Fun fact
-
-![Fun Fact Image](https://your-fun-fact-image-url)
-
-Something interesting about you
